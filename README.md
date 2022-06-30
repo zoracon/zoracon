@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Alexis.
 
-<!--
-**zoracon/zoracon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Currently
+OSS Management @ EFF and sometimesy security research
 
-Here are some ideas to get you started:
+# ☁️ Cloud and Pipeline Tinkering
+- https://github.com/zoracon/tools/blob/main/cloudScan.sh (Masscan and Nmap at cloud scale)
+- https://github.com/zoracon/https-everywhere-labeler (Github Actions)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# :key: On-the-side Learning in Cryptoland
+- 🦀[Rust](https://github.com/zoracon/rust-crypto)
+- :lock_with_ink_pen: [Smart Card signing](https://github.com/zoracon/tools/blob/main/smartcard_signing.sh)
+
+# Contact
+- 📫 How to reach me: zoonarc@duck.com
+- 😄 Pronouns: she/her
