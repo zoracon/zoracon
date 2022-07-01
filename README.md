@@ -4,7 +4,7 @@
 OSS Management @ EFF and sometimes security researcher
 
 # ☁️ Cloud and Pipeline Tinkering
-- https://github.com/zoracon/tools/blob/main/cloudScan.sh (Masscan and Nmap at cloud scale)
+- [in progress] https://github.com/zoracon/tools/blob/main/cloudScan.sh (Masscan and Nmap at cloud scale)
 - https://github.com/zoracon/https-everywhere-labeler (Github Actions)
 
 # :key: On-the-side Learning in Cryptoland
