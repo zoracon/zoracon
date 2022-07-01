@@ -1,7 +1,7 @@
 # Hi, I'm Alexis.
 
 # 💻 Currently
-OSS Management @ EFF and sometimesy security research
+OSS Management @ EFF and sometimesy security researcher
 
 # ☁️ Cloud and Pipeline Tinkering
 - https://github.com/zoracon/tools/blob/main/cloudScan.sh (Masscan and Nmap at cloud scale)
