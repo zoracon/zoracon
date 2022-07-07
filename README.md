@@ -11,7 +11,7 @@ OSS Management @ EFF and sometimes security researcher
 - 🦀[Rust](https://github.com/zoracon/rust-crypto)
 - :lock_with_ink_pen: [Smart Card signing](https://github.com/zoracon/tools/blob/main/smartcard_signing.sh)
 
-# Android RE Noob
+# :robot: Android RE Noob
 - [Link to daycare apps research](https://www.eff.org/deeplinks/2022/06/daycare-apps-are-dangerously-insecure)
 
 # Contact
