@@ -13,6 +13,7 @@ OSS Management @ EFF and sometimes security researcher
 
 # :robot: Android RE Noob
 - [Link to daycare apps research](https://www.eff.org/deeplinks/2022/06/daycare-apps-are-dangerously-insecure)
+- [Deobfuscating with Frida](https://zoracon.github.io/blog/2022/07/06/deobfuscate-with-frida-exercise)
 
 # Contact
 - 📫 How to reach me: zoonarc@duck.com
