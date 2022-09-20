@@ -3,18 +3,30 @@
 # 💻 Currently
 OSS Management @ EFF and sometimes security researcher
 
-# ☁️ Cloud and Pipeline Tinkering
-- [in progress] https://github.com/zoracon/tools/blob/main/cloudScan.sh (Masscan and Nmap at cloud scale)
-- https://github.com/zoracon/https-everywhere-labeler (Github Actions)
+# Contact
+- 📫 How to reach me: zoonarc@duck.com
+- 😄 Pronouns: she/her
 
-# :key: On-the-side Learning in Cryptoland
-- 🦀[Rust](https://github.com/zoracon/rust-crypto)
-- :lock_with_ink_pen: [Smart Card signing](https://github.com/zoracon/tools/blob/main/smartcard_signing.sh)
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="azure" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab alt="Gitlab" th="40" width="40" height="40"/>
+
+### :fire: Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zoracon&theme=dark&background=000000)](https://git.io/streak-stats)
+
+### Languages in repos
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoracon&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # :robot: Android RE Newbie
 - [Link to daycare apps research](https://www.eff.org/deeplinks/2022/06/daycare-apps-are-dangerously-insecure)
 - [Deobfuscating with Frida](https://zoracon.github.io/blog/2022/07/06/deobfuscate-with-frida-exercise)
-
-# Contact
-- 📫 How to reach me: zoonarc@duck.com
-- 😄 Pronouns: she/her
