@@ -24,9 +24,6 @@ OSS Management @ EFF and sometimes security researcher
 ### :fire: Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zoracon&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### Languages in repos
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoracon&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 # :robot: Android RE Newbie
 - [Link to daycare apps research](https://www.eff.org/deeplinks/2022/06/daycare-apps-are-dangerously-insecure)
 - [Deobfuscating with Frida](https://zoracon.github.io/blog/2022/07/06/deobfuscate-with-frida-exercise)
