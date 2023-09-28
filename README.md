@@ -22,9 +22,6 @@ OSS Management @ EFF and sometimes security researcher
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab alt="Gitlab" th="40" width="40" height="40"/>
 
-### :fire: Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zoracon&theme=dark&background=000000)](https://git.io/streak-stats)
-
 # :robot: Android RE Newbie
 - [Link to daycare apps research](https://www.eff.org/deeplinks/2022/06/daycare-apps-are-dangerously-insecure)
 - [Deobfuscating with Frida](https://zoracon.github.io/blog/2022/07/06/deobfuscate-with-frida-exercise)
