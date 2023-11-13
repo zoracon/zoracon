@@ -1,7 +1,7 @@
 # Hi, I'm Alexis.
 
 # 💻 Currently
-OSS Management @ EFF and sometimes security researcher
+OSS Management @ EFF and sometimes Android security researcher
 
 # Contact
 - 📫 How to reach me: zoonarc@duck.com
