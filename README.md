@@ -25,3 +25,4 @@ OSS Management @ EFF and sometimes Android security researcher
 # :robot: Android RE Newbie
 - [Link to daycare apps research](https://www.eff.org/deeplinks/2022/06/daycare-apps-are-dangerously-insecure)
 - [Deobfuscating with Frida](https://zoracon.github.io/blog/2022/07/06/deobfuscate-with-frida-exercise)
+- [Compromised Tablet](https://www.eff.org/deeplinks/2023/11/low-budget-should-not-mean-high-risk-kids-tablet-came-preloaded-sketchyware)
