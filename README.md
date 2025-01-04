@@ -4,7 +4,7 @@
 OSS Management @ EFF and sometimes Android security researcher
 
 # Contact
-- 📫 How to reach me: zoonarc@duck.com
+- 📫 How to reach me: zoracon@pm.me
 - 😄 Pronouns: she/her
 
 ### :hammer_and_wrench: Languages and Tools :
