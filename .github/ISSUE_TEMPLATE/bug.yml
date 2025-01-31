@@ -4,19 +4,19 @@ title: "[Bug]: "
 assignees:
   - zoracon
 body:
-- type: markdown
-  attributes:
-    value: |
-      Thanks for taking the time to fill out this bug report!
-- type: textarea
-  attributes:
-    label: Environment
-    description: |
-      examples:
-        - **OS**: Ubuntu
-        - **Version** 22.04
-        - **Install Type**: (snap, OS package manager, pip, certbot-auto, etc)
-    value: |
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    attributes:
+      label: Environment
+      description: |
+        examples:
+          - **OS**: Ubuntu
+          - **Version** 22.04
+          - **Install Type**: (snap, OS package manager, pip, certbot-auto, etc)
+      value: |
         - OS:
         - Version:
         - Install Type:
