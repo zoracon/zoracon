@@ -1,8 +1,6 @@
 name: Bug Report
 description: File a bug report.
 title: "[Bug]: "
-assignees:
-  - zoracon
 body:
   - type: markdown
     attributes:
