@@ -33,7 +33,7 @@ body:
     id: expected
     attributes:
       label: Expected?
-      description: Certbot's behavior differed from what I expected because:
+      description: Certbot's behavior differed from what I expected because...
       placeholder: What was expected?
     validations:
       required: true
