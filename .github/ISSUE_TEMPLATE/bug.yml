@@ -27,16 +27,14 @@ body:
       label: What happened?
       description: I ran this command and it produced this output.
       placeholder: Tell us what you see!
-      value: "A bug happened!"
     validations:
       required: true
   - type: textarea
     id: expected
     attributes:
       label: Expected?
-      description: Certbot's behavior differed from what I expected because.
-      placeholder: "What was expected?"
-      value: "A bug happened!"
+      description: Certbot's behavior differed from what I expected because:
+      placeholder: What was expected?
     validations:
       required: true
   - type: textarea
