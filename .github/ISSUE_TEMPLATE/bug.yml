@@ -18,6 +18,8 @@ body:
         - OS:
         - Version:
         - Install Type:
+      validations:
+        required: true
     render: markdown
   - type: textarea
     id: what-happened
