@@ -18,7 +18,7 @@ body:
         - OS:
         - Version:
         - Install Type:
-      render: markdown
+    render: markdown
   - type: textarea
     id: what-happened
     attributes:
@@ -31,8 +31,8 @@ body:
     id: expected
     attributes:
       label: Expected?
-      description: Certbot's behavior differed from what I expected because...
-      placeholder: What was expected?
+      description: Certbot's behavior differed from what I expected because.
+      placeholder: "What was expected?"
     validations:
       required: true
   - type: textarea
@@ -40,4 +40,4 @@ body:
     attributes:
       label: Relevant log output
       description: Here is a Certbot log showing the issue (if available). Logs are stored in `/var/log/letsencrypt` by default. Feel free to redact domains, e-mail and IP addresses as you see fit.
-      render: shell
+    render: shell
